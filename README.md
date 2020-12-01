@@ -1,4 +1,4 @@
-# Mountaineering themed website UI created using React JS
+# Mountaineering themed website UI created using React
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
